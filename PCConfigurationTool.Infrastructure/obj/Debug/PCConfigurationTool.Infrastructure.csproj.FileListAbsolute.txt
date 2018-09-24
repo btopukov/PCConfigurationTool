@@ -1,0 +1,12 @@
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\PCConfigurationTool.Infrastructure.dll.config
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\PCConfigurationTool.Infrastructure.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\PCConfigurationTool.Infrastructure.pdb
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\obj\Debug\PCConfigurationTool.Infrastructure.csprojAssemblyReference.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\obj\Debug\PCConfigurationTool.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\obj\Debug\PCConfigurationTool.Infrastructure.csproj.CopyComplete
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\obj\Debug\PCConfigurationTool.Infrastructure.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\obj\Debug\PCConfigurationTool.Infrastructure.pdb
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml

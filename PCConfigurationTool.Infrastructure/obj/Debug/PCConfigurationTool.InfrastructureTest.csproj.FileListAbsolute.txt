@@ -1,0 +1,10 @@
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\obj\Debug\PCConfigurationTool.InfrastructureTest.csprojAssemblyReference.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\obj\Debug\PCConfigurationTool.InfrastructureTest.csproj.CoreCompileInputs.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\bin\Debug\PCConfigurationTool.InfrastructureTest.dll.config
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\bin\Debug\PCConfigurationTool.InfrastructureTest.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\bin\Debug\PCConfigurationTool.InfrastructureTest.pdb
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\bin\Debug\EntityFramework.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\bin\Debug\EntityFramework.xml
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\obj\Debug\PCConfigurationTool.InfrastructureTest.csproj.CopyComplete
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\obj\Debug\PCConfigurationTool.InfrastructureTest.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.InfrastructureTest\obj\Debug\PCConfigurationTool.InfrastructureTest.pdb

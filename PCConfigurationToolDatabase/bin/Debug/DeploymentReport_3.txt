@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Component] (Table)
+       [dbo].[PCComponentConfiguration] (Table)
+       [dbo].[PCConfiguration] (Table)
+       [dbo].[FK_Component_PCConfiguration] (Foreign Key)
+       [dbo].[FK_Configuration_PCConfiguration] (Foreign Key)
+
+** Supporting actions

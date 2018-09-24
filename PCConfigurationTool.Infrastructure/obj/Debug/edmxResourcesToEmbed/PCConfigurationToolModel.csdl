@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PCConfigurationToolModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Component">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="PCConfigurations" Relationship="Self.PCComponentConfiguration" FromRole="Component" ToRole="PCConfiguration" />
+  </EntityType>
+  <EntityType Name="PCConfiguration">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TotalAmount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Components" Relationship="Self.PCComponentConfiguration" FromRole="PCConfiguration" ToRole="Component" />
+  </EntityType>
+  <Association Name="PCComponentConfiguration">
+    <End Role="Component" Type="Self.Component" Multiplicity="*" />
+    <End Role="PCConfiguration" Type="Self.PCConfiguration" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="PCConfigurationToolEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Components" EntityType="Self.Component" />
+    <EntitySet Name="PCConfigurations" EntityType="Self.PCConfiguration" />
+    <AssociationSet Name="PCComponentConfiguration" Association="Self.PCComponentConfiguration">
+      <End Role="Component" EntitySet="Components" />
+      <End Role="PCConfiguration" EntitySet="PCConfigurations" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

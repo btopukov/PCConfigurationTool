@@ -1,0 +1,12 @@
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\PCConfigurationTool.ServiceBLL.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\PCConfigurationTool.ServiceBLL.pdb
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\PCConfigurationTool.Infrastructure.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\EntityFramework.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\PCConfigurationTool.Infrastructure.pdb
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\PCConfigurationTool.Infrastructure.dll.config
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\bin\Debug\EntityFramework.xml
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\obj\Debug\PCConfigurationTool.ServiceBLL.csprojAssemblyReference.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\obj\Debug\PCConfigurationTool.ServiceBLL.csproj.CoreCompileInputs.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\obj\Debug\PCConfigurationTool.ServiceBLL.csproj.CopyComplete
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\obj\Debug\PCConfigurationTool.ServiceBLL.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationTool.ServiceBLL\obj\Debug\PCConfigurationTool.ServiceBLL.pdb

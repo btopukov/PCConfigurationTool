@@ -1,0 +1,5 @@
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationToolDatabase.dacpac
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationToolDatabase.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationToolDatabase.pdb
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationToolDatabase.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationToolDatabase.pdb
