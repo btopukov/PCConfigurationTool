@@ -3,7 +3,4 @@ C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatab
 C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationTool.Database.pdb
 C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationTool.Database.dll
 C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationTool.Database.pdb
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\Model.xml
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\refactor.xml
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\postdeploy.sql
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\predeploy.sql
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationTool.Database.sqlprojAssemblyReference.cache
