@@ -1,6 +1,5 @@
 C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationTool.Database.dacpac
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationTool.Database.dll
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationTool.Database.pdb
 C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationTool.Database.dll
 C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationTool.Database.pdb
-C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\obj\Debug\PCConfigurationTool.Database.sqlprojAssemblyReference.cache
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationTool.Database.dll
+C:\Users\boban.topukov\source\repos\PCConfigurationTool\PCConfigurationToolDatabase\bin\Debug\PCConfigurationTool.Database.pdb

@@ -67,6 +67,7 @@
     <Build Include="dbo\Tables\PCComponentConfiguration.sql" />
     <Build Include="dbo\Tables\Component.sql" />
     <None Include="PostDeployment\Data\Components.sql" />
+    <None Include="PostDeployment\Data\PCConfigurationToolCreate.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="PCConfigurationTool.Debug.publish.xml" />
