@@ -53,7 +53,7 @@ public partial class _Default : Page
             }
             pCConfiguration.TotalAmount = totalAmount; // TODO fix this
             businessLayer.AddPCConfiguration(pCConfiguration);
-
+            Session["PCConfigurationComponents"] = new List<Component>();
             lblTotalAmount.Visible = false;
             ddlComponents.SelectedIndex = 0;
             gvConfiguration.DataSource = new List<Component>();
